@@ -1,0 +1,3 @@
+class AppImagesStrings {
+  AppImagesStrings._();
+}
