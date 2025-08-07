@@ -85,3 +85,10 @@ lib/
 ├── app.dart
 ├── main.dart
 </pre>
+
+## Contact
+For any inquiries or feedback, feel free to reach out:
+[📧 Email: ahibrahime8@gmail.com](mailto:ahibrahime8@gmail.com)
+[💼 LinkedIn:](https://www.linkedin.com/in/ahmed-ibrahime-040028248)
+ 
+
