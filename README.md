@@ -88,8 +88,9 @@ lib/
 
 ## Contact
 For any inquiries or feedback, feel free to reach out:
-[📧 Email: ahibrahime8@gmail.com](mailto:ahibrahime8@gmail.com) 
 <br>
-[💼 LinkedIn: https://www.linkedin.com/in/ahmed-ibrahime-040028248](https://www.linkedin.com/in/ahmed-ibrahime-040028248)
+📧 Email: [ahibrahime8@gmail.com](mailto:ahibrahime8@gmail.com) 
+<br>
+💼 LinkedIn: [https://www.linkedin.com/in/ahmed-ibrahime-040028248](https://www.linkedin.com/in/ahmed-ibrahime-040028248)
  
 
