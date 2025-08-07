@@ -73,7 +73,8 @@ A complete e-commerce mobile application built using Flutter and Firebase. It al
 
 ## 📂 Project Structure
 
-lib/
+<pre>
+  lib/
 ├── bindings/
 ├── common/
 ├── data/
@@ -83,4 +84,4 @@ lib/
 ├── utils/
 ├── app.dart
 ├── main.dart
-
+</pre>
