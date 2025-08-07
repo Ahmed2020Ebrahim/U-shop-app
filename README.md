@@ -1,10 +1,10 @@
-# 🛍️ Ushop App
+# Ushop App
 
 A complete e-commerce mobile application built using Flutter and Firebase. It allows users to browse products, manage their carts, place orders, and more — all in a sleek and responsive interface.
 
 ---
 
-## 🚀 Features
+## Features
 
 - User authentication (Sign up / Login)
 - Product browsing and filtering
@@ -19,7 +19,7 @@ A complete e-commerce mobile application built using Flutter and Firebase. It al
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 - **Flutter**
 - **Firebase (Auth, Firestore, Storage)**
@@ -58,8 +58,9 @@ A complete e-commerce mobile application built using Flutter and Firebase. It al
 </p>
 
 
+## 📽️ Demo Video
 
-## ▶️ Demo Video
+[▶️ Watch the demo](https://drive.google.com/file/d/10_GXXhKwAx-oBMXivJaWEFAuLXNJoMY5/view?usp=sharing)
 
 <p align="center">
   <a href="https://drive.google.com/file/d/17Jf7pmQT5zGOGh5gEnz_iIyzE6B81UkL/view?usp=sharing" target="_blank">
