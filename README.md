@@ -45,6 +45,35 @@ A complete e-commerce mobile application built using Flutter and Firebase. It al
 
 ---
 
+<p align="center">
+  <table>
+    <tr>
+      <td><img src="https://raw.githubusercontent.com/Ahmed2020Ebrahim/my_portfolio/refs/heads/master/assets/assets/projects/ushop/1.jpg" width="200"></td>
+      <td>&nbsp;&nbsp;&nbsp;</td>
+      <td><img src="https://raw.githubusercontent.com/Ahmed2020Ebrahim/my_portfolio/refs/heads/master/assets/assets/projects/ushop/2.jpg" width="200"></td>
+      <td>&nbsp;&nbsp;&nbsp;</td>
+      <td><img src="https://raw.githubusercontent.com/Ahmed2020Ebrahim/my_portfolio/refs/heads/master/assets/assets/projects/ushop/3.jpg" width="200"></td>
+    </tr>
+    <tr><td colspan="5">&nbsp;</td></tr>
+    <tr>
+      <td><img src="https://raw.githubusercontent.com/Ahmed2020Ebrahim/my_portfolio/refs/heads/master/assets/assets/projects/ushop/4.jpg" width="200"></td>
+      <td>&nbsp;&nbsp;&nbsp;</td>
+      <td><img src="https://raw.githubusercontent.com/Ahmed2020Ebrahim/my_portfolio/refs/heads/master/assets/assets/projects/ushop/5.jpg" width="200"></td>
+      <td>&nbsp;&nbsp;&nbsp;</td>
+      <td><img src="https://raw.githubusercontent.com/Ahmed2020Ebrahim/my_portfolio/refs/heads/master/assets/assets/projects/ushop/6.jpg" width="200"></td>
+    </tr>
+    <tr><td colspan="5">&nbsp;</td></tr>
+    <tr>
+      <td><img src="https://raw.githubusercontent.com/Ahmed2020Ebrahim/my_portfolio/refs/heads/master/assets/assets/projects/ushop/7.jpg" width="200"></td>
+      <td>&nbsp;&nbsp;&nbsp;</td>
+      <td><img src="https://raw.githubusercontent.com/Ahmed2020Ebrahim/my_portfolio/refs/heads/master/assets/assets/projects/ushop/8.jpg" width="200"></td>
+      <td>&nbsp;&nbsp;&nbsp;</td>
+      <td><img src="https://raw.githubusercontent.com/Ahmed2020Ebrahim/my_portfolio/refs/heads/master/assets/assets/projects/ushop/9.jpg" width="200"></td>
+    </tr>
+  </table>
+</p>
+
+
 ## ▶️ Demo Video
 
 <p align="center">
