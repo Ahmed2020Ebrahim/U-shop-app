@@ -41,7 +41,7 @@ A complete e-commerce mobile application built using Flutter and Firebase. It al
 
 <p align="center">
   <a href="https://drive.google.com/file/d/17Jf7pmQT5zGOGh5gEnz_iIyzE6B81UkL/view?usp=sharing" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" alt="Play Button" width="90" style="position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%);"/>
+  
     <img src="https://raw.githubusercontent.com/Ahmed2020Ebrahim/my_portfolio/refs/heads/master/assets/assets/projects/ushop/1.jpg" alt="Demo Video" width="250" />
     
   </a>
