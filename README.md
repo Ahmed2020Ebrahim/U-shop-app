@@ -41,7 +41,7 @@ A complete e-commerce mobile application built using Flutter and Firebase. It al
 
 <p align="center">
   <a href="https://drive.google.com/file/d/17Jf7pmQT5zGOGh5gEnz_iIyzE6B81UkL/view?usp=sharing" target="_blank">
-    <img src="https://raw.githubusercontent.com/Ahmed2020Ebrahim/my_portfolio/refs/heads/master/assets/assets/projects/ushop/1.jpg" alt="Demo Video" width="500" />
+    <img src="https://raw.githubusercontent.com/Ahmed2020Ebrahim/my_portfolio/refs/heads/master/assets/assets/projects/ushop/1.jpg" alt="Demo Video" width="250" />
   </a>
 </p>
 
