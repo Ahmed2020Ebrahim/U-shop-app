@@ -30,22 +30,6 @@ A complete e-commerce mobile application built using Flutter and Firebase. It al
 ## Screenshots
 
 <p align="center">
-
-  <img src="https://raw.githubusercontent.com/Ahmed2020Ebrahim/my_portfolio/refs/heads/master/assets/assets/projects/ushop/1.jpg" width="200"/>
-  <img src="https://raw.githubusercontent.com/Ahmed2020Ebrahim/my_portfolio/refs/heads/master/assets/assets/projects/ushop/2.jpg" width="200"/>
-  <img src="https://raw.githubusercontent.com/Ahmed2020Ebrahim/my_portfolio/refs/heads/master/assets/assets/projects/ushop/3.jpg" width="200"/>
-  <img src="https://raw.githubusercontent.com/Ahmed2020Ebrahim/my_portfolio/refs/heads/master/assets/assets/projects/ushop/4.jpg" width="200"/>
-  <img src="https://raw.githubusercontent.com/Ahmed2020Ebrahim/my_portfolio/refs/heads/master/assets/assets/projects/ushop/5.jpg" width="200"/>
-  <img src="https://raw.githubusercontent.com/Ahmed2020Ebrahim/my_portfolio/refs/heads/master/assets/assets/projects/ushop/6.jpg" width="200"/>
-  <img src="https://raw.githubusercontent.com/Ahmed2020Ebrahim/my_portfolio/refs/heads/master/assets/assets/projects/ushop/7.jpg" width="200"/>
-  <img src="https://raw.githubusercontent.com/Ahmed2020Ebrahim/my_portfolio/refs/heads/master/assets/assets/projects/ushop/8.jpg" width="200"/>
-  <img src="https://raw.githubusercontent.com/Ahmed2020Ebrahim/my_portfolio/refs/heads/master/assets/assets/projects/ushop/9.jpg" width="200"/>
-  
-</p>
-
----
-
-<p align="center">
   <table>
     <tr>
       <td><img src="https://raw.githubusercontent.com/Ahmed2020Ebrahim/my_portfolio/refs/heads/master/assets/assets/projects/ushop/1.jpg" width="200"></td>
@@ -72,6 +56,7 @@ A complete e-commerce mobile application built using Flutter and Firebase. It al
     </tr>
   </table>
 </p>
+
 
 
 ## ▶️ Demo Video
