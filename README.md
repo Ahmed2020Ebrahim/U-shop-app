@@ -69,9 +69,18 @@ A complete e-commerce mobile application built using Flutter and Firebase. It al
 </p>
 
 
-> 📌 **Note:** GitHub does not support embedding playable videos from Google Drive. The above link will open the video in a new tab.
-
 ---
 
 ## 📂 Project Structure
+
+lib/
+├── bindings/
+├── common/
+├── data/
+├── features/
+├── routs/
+├── services/
+├── utils/
+├── app.dart
+├── main.dart
 
