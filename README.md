@@ -1,16 +1,54 @@
-# ushop
+# 🛍️ Ushop App
 
-A new Flutter project.
+A complete e-commerce mobile application built using Flutter and Firebase. It allows users to browse products, manage their carts, place orders, and more — all in a sleek and responsive interface.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- User authentication (Sign up / Login)
+- Product browsing and filtering
+- Add to cart and manage orders
+- Wishlist functionality
+- Admin product management
+- Payment integration
+- Order tracking
+- Dark & Light theme support
+- Responsive UI
+- Real-time data with Firebase
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🧰 Tech Stack
+
+- **Flutter**
+- **Firebase (Auth, Firestore, Storage)**
+- **GetX** for state management and routing
+
+---
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ahmed2020Ebrahim/ushop/master/assets/screenshots/1.png" width="200"/>
+  <img src="https://raw.githubusercontent.com/Ahmed2020Ebrahim/ushop/master/assets/screenshots/2.png" width="200"/>
+  <img src="https://raw.githubusercontent.com/Ahmed2020Ebrahim/ushop/master/assets/screenshots/3.png" width="200"/>
+</p>
+
+---
+
+## ▶️ Demo Video
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/17Jf7pmQT5zGOGh5gEnz_iIyzE6B81UkL/view?usp=sharing" target="_blank">
+    <img src="https://raw.githubusercontent.com/Ahmed2020Ebrahim/my_portfolio/refs/heads/master/assets/assets/projects/ushop/1.jpg" alt="Demo Video" width="250" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" alt="Play Button" width="90" style="position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%);"/>
+  </a>
+</p>
+
+> 📌 **Note:** GitHub does not support embedding playable videos from Google Drive. The above link will open the video in a new tab.
+
+---
+
+## 📂 Project Structure
+
